@@ -1,0 +1,1 @@
+[phaseVelOut,fOut] = calculatePhaseVel(phPick,fExt,velGrp,f1,distOut);
